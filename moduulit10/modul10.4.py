@@ -23,7 +23,7 @@ def main():
             kilpailu_meneillaan = False
 
     print("Kilpailu ohi...")
-    print("")
+    print(" ")
     minun_kilpailu.tulosta_tilanne()
 
 
